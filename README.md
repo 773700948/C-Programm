@@ -1,4 +1,4 @@
-# C-Programm
+# "C++" Programm
 ##This program deal with all oprations down on array in C++ 
 To add two arrays---To Calculate average of array ----To Calculate the minimuim number ---To Print the square array ---To reorder the array 
 To Multiply two arrays  ---To Multiply two arrays --- To Calculate the sum of even numbers  ---To Count the odd numbers --
